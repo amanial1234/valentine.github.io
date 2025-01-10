@@ -3,7 +3,7 @@ body {
   margin-top: 30px;
   font-family: "Courier";
   background-color: #fff5e4;
-  color: #ff9494;
+  color: #e883f3;
   display: flex;
   flex-direction: column;
 }
@@ -16,7 +16,7 @@ form .header {
   display: flex;
   font-size: 20px;
   margin-bottom: 20px;
-  color: #ff9494;
+  color: #e883f3;
 }
 
 .form-group {
@@ -34,16 +34,16 @@ form .header {
   font-family: "courier";
   margin-bottom: 10px;
   background-color: #ffe3e1;
-  color: #e67373;
+  color: #e883f3;
   border-radius: 12px;
   border: 2px solid #ffe3e1;
   transition: 0.3s;
 }
 
 .button:hover {
-  background-color: #ff9494;
+  background-color: #e883f3;
   color: #ffe3e1;
-  border: 2px solid #ff9494;
+  border: 2px solid #e883f3;
 }
 
 input[type="date"] {
@@ -54,7 +54,7 @@ input[type="date"] {
   font-family: "courier";
   margin-bottom: 10px;
   background-color: #ffe3e1;
-  color: #e67373;
+  color: #e883f3;
   border-radius: 12px;
   border: 2px solid #ffe3e1;
 }

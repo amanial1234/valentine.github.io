@@ -3,7 +3,7 @@ body {
   margin-top: 30px;
   font-family: "Courier";
   background-color: #fff5e4;
-  color: #ff9494;
+  color: #eb70f9;
 }
 #thankyou {
   font-size: 50px;
@@ -20,16 +20,16 @@ body {
   font-family: "courier";
   margin-bottom: 20px;
   background-color: #ffe3e1;
-  color: #e67373;
+  color: #e883f3;
   border-radius: 12px;
   border: 2px solid #ffe3e1;
-  box-shadow: 1px 1px 2px #ff9494;
+  box-shadow: 1px 1px 2px #e883f3;
   transition: 0.3s;
 }
 
 .button:hover {
-  background-color: #ff9494;
+  background-color: #e883f3;
   color: #ffe3e1;
-  border: 2px solid #ff9494;
+  border: 2px solid #e883f3;
   box-shadow: 1px 1px 2px #ffe3e1;
 }
